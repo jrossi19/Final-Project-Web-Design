@@ -1,0 +1,41 @@
+/* this style will apply to whole body */
+body {
+    background-color: aqua;
+    font-size: 200px
+}
+/*custom classes */
+        li {
+            color:darkcyan;
+            font-size: 50px;
+        }
+        .firstClass {
+            color:darkgoldenrod;
+        }
+        .secondClass {
+            color:hotpink;
+        }
+        .thirdClass {
+            color:indigo;
+        }
+        .fourthClass {
+            color:lightseagreen;
+        }
+        .fifthClass {
+            color:red;
+        }
+/* Divs */
+        .myDiv {
+            widows: 1000px;
+            height: 600px;
+            color:red;
+            border-radius: 25px;
+            float: left
+        }
+        .myDivs {
+            color:darkcyan;
+            font-size: 50px;
+            float: left;
+            background-color: blue;
+            border-radius: 25px;
+            margin: 0 auto;
+        }

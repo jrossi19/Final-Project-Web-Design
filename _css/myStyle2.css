@@ -1,0 +1,125 @@
+@media only screen and (min-width: 290px){
+    .banner {
+        width: 290px;
+        height: 215px;
+        float: left;
+        color: white;
+        background-color: red;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 75px;
+        text-align: center;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .container {
+        margin: 0 auto;
+        width: 1366px;
+        height: 768px;
+        background-color:#53C7FF;
+    }
+    
+    .banner{
+        width: 1366px;
+        height: 215px;
+        float: left;
+        color:white;
+        background-color:#29637F;
+        text-align: center;
+        line-height: 200px;
+        font-size: 100px
+    }
+    .nav{
+        width: 215px;
+        height: 553px;
+        float: left;
+        background-color:#9FE0FF;
+        text-align: center;
+        line-height: 50px;
+        font-size: 40px;
+    }
+    
+    .content {
+        width: 1121px;
+        height: 523px;
+        padding: 15px;
+        float: left;
+        background-color: gray
+    }
+    .testDiv {
+        width: 200px;
+        height: 200px;
+        padding: 15px;
+        background-color: green;
+        float: right;
+        border: aqua;
+    }
+    
+    body {
+        background-color:white;
+        color:black
+    }
+    
+    .colorscheme {
+        color: #29637F;
+        color: #9FE0FF;
+        color: #53C7FF;
+        color: #50707F;
+        color: #429FCC;
+    }
+}
+/* .container {
+    margin: 0 auto;
+    width: 1366px;
+    height: 768px;
+    background-color:#53C7FF;
+}
+
+.banner{
+    width: 1366px;
+    height: 215px;
+    float: left;
+    color:white;
+    background-color:#29637F;
+    text-align: center;
+    line-height: 200px;
+    font-size: 100px
+}
+.nav{
+    width: 215px;
+    height: 553px;
+    float: left;
+    background-color:#9FE0FF;
+    text-align: center;
+    line-height: 50px;
+    font-size: 40px;
+} */
+
+/* .content {
+    width: 1121px;
+    height: 523px;
+    padding: 15px;
+    float: left;
+    background-color: gray
+}
+.testDiv {
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+    background-color: green;
+    float: right;
+    border: aqua;
+}
+
+body {
+    background-color:white;
+    color:black
+}
+
+.colorscheme {
+    color: #29637F;
+    color: #9FE0FF;
+    color: #53C7FF;
+    color: #50707F;
+    color: #429FCC;
+} */
